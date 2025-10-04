@@ -1,15 +1,15 @@
-# 🦠 COVID-19 Risk and Outcomes Analysis  
+# COVID-19 Risk and Outcomes Analysis  
 
 *Analyzing the impact of demographic, socioeconomic, and racial factors on COVID-19 risk and outcomes in U.S. counties*  
 
 ---
 
-## 📌 Introduction  
+## Introduction  
 The COVID-19 pandemic exposed critical health disparities across U.S. counties, disproportionately affecting communities with higher poverty rates and larger minority populations. This project investigates how **socioeconomic, racial, and demographic variables** influence COVID-19 deaths and health risk categorizations, offering evidence to guide public health interventions and equitable resource distribution.  
 
 ---
 
-## 📂 Dataset  
+## Dataset  
 The analysis uses the **COVID-19 Race, Gender, and Poverty Risk Dataset** (Kaggle), which integrates data from:  
 - USA Facts  
 - U.S. Census Bureau  
@@ -22,7 +22,7 @@ The analysis uses the **COVID-19 Race, Gender, and Poverty Risk Dataset** (Kaggl
 
 ---
 
-## ⚙️ Methodology  
+## Methodology  
 1. **Preprocessing**  
    - Removal of irrelevant variables and outliers  
    - Addressing multicollinearity between demographic groups  
@@ -39,7 +39,7 @@ The analysis uses the **COVID-19 Race, Gender, and Poverty Risk Dataset** (Kaggl
 
 ---
 
-## 📈 Key Findings  
+##  Key Findings  
 - **Socioeconomic disparities:** Strong positive correlation between poverty rates and COVID-19 mortality.  
 - **Regression performance:**  
   - Linear regression explained **85%** of the variation in COVID-19 deaths.  
@@ -49,7 +49,7 @@ The analysis uses the **COVID-19 Race, Gender, and Poverty Risk Dataset** (Kaggl
 
 ---
 
-## 🎯 Significance  
+## Significance  
 The study highlights how **poverty, race, and demographics** were central to pandemic vulnerability in the U.S. These findings reinforce the need for:  
 - Targeted interventions for high-risk communities  
 - Equitable distribution of healthcare resources  
@@ -57,14 +57,14 @@ The study highlights how **poverty, race, and demographics** were central to pan
 
 ---
 
-## 🚀 Future Work  
+## Future Work  
 - Expand models to include vaccination rates and comorbidities  
 - Explore causal inference methods to move beyond correlation  
 - Develop interactive dashboards to support policymakers with real-time insights  
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Sai Srilekha Aluru**  
 MS Health Informatics | Pharm D  
 📧 saisrilekhaaluru@gmail.com  
