@@ -64,15 +64,10 @@ The study highlights how **poverty, race, and demographics** were central to pan
 
 ---
 
-## 👩‍💻 Authors  
-**Group 4 – INFO B518 Applied Statistical Methods for Biomedical Informatics**  
-- Aakriti Bhandari  
-- Sai Sathvik Appagana  
-- Sai Srilekha Aluru  
-- Sri Jahnavi Adusumilli  
+## 👩‍💻 Author
+**Sai Srilekha Aluru**  
+MS Health Informatics | Pharm D  
+📧 saisrilekhaaluru@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sai-srilekha-aluru-60b156177/)  
 
-📅 December 16, 2024  
 
----
-
-✨ This project underscores the **intersection of statistics, informatics, and public health** in understanding and addressing pandemic disparities.  
